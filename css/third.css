@@ -27,11 +27,19 @@ html, body {
 .cuisine_dropdown{
 	padding-left: 70px;
 }
-.cuisine_img{
-    border-radius: 20px; 
-    width: 549px; 
-    height: 350px;
 
+.product-name{
+    font-size: 25px; 
+    padding-top: 10px;
+    margin-top: 350px; 
+    margin-left:550px;
+}
+.price{
+    padding-top: 15px; 
+    font-size: 25px; 
+    margin-top: 285px; 
+    margin-left: 630px; 
+    color:red;
 }
 .veg-nonveg{
     width: 50px;
